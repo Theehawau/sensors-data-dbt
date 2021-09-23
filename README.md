@@ -1,6 +1,6 @@
-Welcome to your new dbt project!
+### Sensors data warehouse with MySQL & dbt:
 
-### Using the starter project
+### Using the  project
 
 Try running the following commands:
 - dbt run
