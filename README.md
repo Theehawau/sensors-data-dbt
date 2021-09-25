@@ -1,4 +1,6 @@
 ### Sensors data warehouse with MySQL & dbt:
+The aim of this project is to create a scalable data warehouse tech-stack 
+Dataset used for this project can be found [here][https://anson.ucdavis.edu/~clarkf/]
 
 ### Using the  project
 
@@ -12,7 +14,4 @@ Try running the following commands:
 
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](http://slack.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+- See a step-by-step [guide] [https://www.startdataengineering.com/post/dbt-data-build-tool-tutorial/] of creating a warehouse with dbt 
