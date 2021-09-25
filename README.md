@@ -8,7 +8,7 @@ Try running the following commands:
 - dbt run
 - dbt test
 
-[View data warehouse documentation](https://toyin-sensors.netlify.app/#!/overview)
+View data warehouse [documentation](https://toyin-sensors.netlify.app/#!/overview)
 
 
 
