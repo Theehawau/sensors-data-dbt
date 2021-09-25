@@ -1,6 +1,6 @@
 ### Sensors data warehouse with MySQL & dbt:
-The aim of this project is to create a scalable data warehouse tech-stack 
-Dataset used for this project can be found [here](https://anson.ucdavis.edu/~clarkf/)
+The aim of this project is to create a scalable data warehouse tech-stack. 
+Data used for this project can be found [here](https://anson.ucdavis.edu/~clarkf/)
 
 ### Using the  project
 
