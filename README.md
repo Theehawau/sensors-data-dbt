@@ -6,6 +6,9 @@ Try running the following commands:
 - dbt run
 - dbt test
 
+[View data warehouse documentation](https://toyin-sensors.netlify.app/#!/overview)
+
+
 
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
